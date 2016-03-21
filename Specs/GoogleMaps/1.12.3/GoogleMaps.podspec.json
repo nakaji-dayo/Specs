@@ -1,5 +1,5 @@
 {
-  "name": "GoogleMaps",
+  "name": "GoogleMapsRef",
   "version": "1.12.3",
   "summary": "Google Maps SDK for iOS.",
   "description": "Use the Google Maps SDK for iOS to enrich your app with interactive maps, immersive Street View panoramas, and detailed information from Google's Places database.",
